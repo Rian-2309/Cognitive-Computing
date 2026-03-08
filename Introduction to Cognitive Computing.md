@@ -19,7 +19,7 @@ It tries to mimic how the human brains thinks, and learn.
 The word 'Cognitive' comes from 'Cognition'.
 Cognition refers to the mental processes involved in acquiring knowledge and understanding through thought, experience, and sensory input.
 It includes:
-![[Pasted image 20260306233210.png|293]]
+![[Pasted image 20260306233509.png|332]]
 1. Perception – interpreting sensory input
 2. Attention – focusing on specific information
 3. Memory – storing and retrieving knowledge
