@@ -55,12 +55,12 @@ Consciousness allows humans to:
 | Conscious    | Fully aware and alert                     |
 | Subconscious | Information stored but not actively aware |
 | Unconscious  | No awareness (sleep, coma)                |
-**Example: -** While driving:
-			- You **see traffic signals**
-			- You **hear sounds**
-			- You **make decisions**
-		All of this happens through **conscious awareness**.
-
+**Example: -** 
+While driving:
+- You **see traffic signals**
+- You **hear sounds**
+- You **make decisions**
+All of this happens through **conscious awareness**.
 ---
 # 3️. Problems Related to Mind (Mind–Body Problem)
 
