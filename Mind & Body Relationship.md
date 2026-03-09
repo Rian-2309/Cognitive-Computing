@@ -65,6 +65,7 @@ All of this happens through **conscious awareness**.
 # 3️. Problems Related to Mind (Mind–Body Problem)
 
 ![https://upload.wikimedia.org/wikipedia/commons/3/35/Descartes_mind_and_body.gif|260](https://upload.wikimedia.org/wikipedia/commons/3/35/Descartes_mind_and_body.gif)
+
 The **Mind–Body Problem** is a **philosophical question**:
 >How do **mental processes (mind)** interact with the **physical brain and body**?
 
