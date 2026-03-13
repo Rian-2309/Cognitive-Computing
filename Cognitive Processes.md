@@ -17,13 +17,13 @@ In Brain
 # Cognitive Process Flow
 Stimulus  
 ↓  
-Perception  
+[[Perception]]
 ↓  
-Attention  
+[[Attention]]  
 ↓  
-Recognition  
+[[Recognition]]  
 ↓  
-Memory  
+[[Memory]]  
 ↓  
 Learning  
 ↓  
