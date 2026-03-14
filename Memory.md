@@ -1,0 +1,1 @@
+memory is a type of cognition process which is used to 
