@@ -1,4 +1,4 @@
-![Image|428](https://miro.medium.com/v2/resize%3Afit%3A1400/1%2A84raRMC-XVpgIcWRFCFuFw.png)
+![Image|262](https://miro.medium.com/v2/resize%3Afit%3A1400/1%2A84raRMC-XVpgIcWRFCFuFw.png)
 
 ![Image|371](https://media.easy-peasy.ai/014fef61-889d-41af-8676-bb994fa88b75/c71d1144-1726-484c-b6c4-012ff0c04153_medium.webp)
 
