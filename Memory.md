@@ -1,1 +1,1 @@
-memory is a type of cognition process which is used to 
+memory is a type of cognition process which is used to we, have to setup the most useful i am good evening mam , i am anmol kumar giving the more information about the innovation and technology 
