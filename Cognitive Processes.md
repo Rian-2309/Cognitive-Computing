@@ -23,7 +23,7 @@ Stimulus
 ↓  
 [[Recognition]]  
 ↓  
-[[Memory]]  
+[[Memory]] 
 ↓  
 Learning  
 ↓  
