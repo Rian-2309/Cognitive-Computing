@@ -1,6 +1,7 @@
 # Definition of Intelligence
 Intelligence is the **ability to learn from experience, adapt to new situations, understand complex ideas, solve problems and use knowledge effectively**.
 >**Intelligence = Learning + Problem Solving + Adaptation**
+---
 # Theories of Intelligence
 ## 1. Spearman’s Two-Factor Theory
 Charles Spearman proposed:
